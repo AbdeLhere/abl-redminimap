@@ -9,11 +9,8 @@ https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar
 
 Retextured by abdel499
 
-> **Preview**
-
-![1](image-3.png)
-![2](image.png)
-![3](image-1.png)
+> **Preview** / Textures :
+![minimap_sea_0_0](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/22cdfa52-0843-4ec5-bdc2-eb7146285775)
 - and more
 > # Installation
 
@@ -23,8 +20,10 @@ Retextured by abdel499
  "client/minimap.lua"
 ```
 in ```client_scripts {}```
+![image](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/ce258ee8-dbaa-4328-b5c6-9bab185dc478)
 
-- ![example](image-1.png)
+
+
 
 - example 2
 ```lua
@@ -41,11 +40,13 @@ client_scripts {
 ```
 
 > 2 drag "minimap.lua" file from "abl-redminimap/lua folder and drop it in "0r-hud"/"client" folder
-- ![example](image.png)
+- ![example](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/f0510503-a1d6-472a-a30b-67eb4e13b33e)
 
 
 > 3 drag "stream" folder  from "abl-redminimap"/"STREAMASSESTS"/"stream" folder and drop it in "0r-hud" folder
-- ![example](image-2.png)
+- ![image](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/55ad9d09-4afa-467c-b4d5-6a6104389837)
+
+)
 
 > 4 
 
@@ -72,3 +73,4 @@ local cayopericoactive = true -- false if no
 
 
 
+Note : Dont give texture support / do it you're seld 
