@@ -39,24 +39,27 @@ client_scripts {
 }
 ```
 
-> 2 drag "minimap.lua" file from "abl-redminimap/lua folder and drop it in "0r-hud"/"client" folder
+> # 2 Add .lua File
+
+drag "minimap.lua" file from "abl-redminimap/lua folder and drop it in "0r-hud"/"client" folder
 - ![example](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/f0510503-a1d6-472a-a30b-67eb4e13b33e)
 
+> # 3 Add Stream Folder
 
-> 3 drag "stream" folder  from "abl-redminimap"/"STREAMASSESTS"/"stream" folder and drop it in "0r-hud" folder
+drag "stream" folder  from "abl-redminimap"/"STREAMASSESTS"/"stream" folder and drop it in "0r-hud" folder
 - ![image](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/55ad9d09-4afa-467c-b4d5-6a6104389837)
 
 )
 
-> 4 
 
+> # 4 Fix Bugs
 
-a/ Open <Visual Studio Code> 
-b/ press <CTRL + K + O> 
-c/ Select you server folder Press <open> 
+a/ Open "Visual Studio Code" 
+b/ press "CTRL + K + O"
+c/ Select you server folder Press "open"
 d/ press <CTRL + SHIFT + F> 
-e/ Search For <     SetMapZoomDataLevel / SetRadarZoom / SetRadarAsInteriorThisFrame      > <and remove them>
-Note : <Dont remove them from <"0r-hud"/"client"/"minimap.lua">
+e/ Search For " SetMapZoomDataLevel / SetRadarZoom / SetRadarAsInteriorThisFrame  "  And remove them
+Note : "Dont remove them from "0r-hud"/"client"/"minimap.lua"
 
 - Search in your server SetMapZoomDataLevel, SetRadarZoom, SetRadarAsInteriorThisFrame and remove them , <Dont remove them from <"0r-hud"/"client"/"minimap.lua">
 
