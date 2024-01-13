@@ -1,6 +1,7 @@
 
 a minimap works fine with 0r-hud 
-
+- abdel4999 : retextured
+- BuddyBoyVilla : first changes
 > # Original map
 
 https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar
