@@ -7,7 +7,7 @@ https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar
 
 > **Info**
 
-Retextured by abdel499
+Retextured by abdel4999
 
 > **Preview** / Textures :
 ![minimap_sea_0_0](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/22cdfa52-0843-4ec5-bdc2-eb7146285775)
