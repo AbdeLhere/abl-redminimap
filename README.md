@@ -52,12 +52,12 @@ drag "stream" folder  from "abl-redminimap"/"STREAMASSESTS"/"stream" folder and 
 
 > # 4 Fix Bugs
 
-a/ Open "Visual Studio Code" 
-b/ press "CTRL + K + O"
-c/ Select you server folder Press "open"
-d/ press <CTRL + SHIFT + F> 
-e/ Search For " SetMapZoomDataLevel / SetRadarZoom / SetRadarAsInteriorThisFrame  "  And remove them
-Note : "Dont remove them from "0r-hud"/"client"/"minimap.lua"
+a -  Open "Visual Studio Code" 
+b -  press "CTRL + K + O"
+c -  Select you server folder Press "open"
+d -  press <CTRL + SHIFT + F> 
+e -  Search For " SetMapZoomDataLevel , SetRadarZoom , SetRadarAsInteriorThisFrame  "  And remove them
+> Note : "Dont remove them from "0r-hud"/"client"/"minimap.lua"
 
 - Search in your server SetMapZoomDataLevel, SetRadarZoom, SetRadarAsInteriorThisFrame and remove them , <Dont remove them from <"0r-hud"/"client"/"minimap.lua">
 
