@@ -14,18 +14,16 @@ Retextured by abdel499
 - and more
 > # Installation
 
-> 1 , Go to 0r-hud/fxmanifest.lua and add 
+> # 1 ADD .lua file in fxmanifest.lua
+
+ Go to 0r-hud/fxmanifest.lua and add 
 
 ```lua
  "client/minimap.lua"
 ```
 in ```client_scripts {}```
 ![image](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/ce258ee8-dbaa-4328-b5c6-9bab185dc478)
-
-
-
-
-- example 2
+Like That
 ```lua
 client_scripts {
     "client/utils.lua",
